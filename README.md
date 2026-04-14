@@ -81,9 +81,9 @@ machine-learning-journey/
 ## 📈 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash6163&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash6163&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
