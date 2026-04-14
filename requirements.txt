@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+logger
+bs4
+requests
+flask
+streamlit
+statsmodels
+tensorflow 
+keras
