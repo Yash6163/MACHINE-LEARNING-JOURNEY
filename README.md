@@ -1,7 +1,7 @@
 # 🚀 Machine Learning Journey by Yash Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Building+Real+World+Projects;Learning+Every+Single+Day;Future+Cybersecurity+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Building+Real+World+Projects;Learning+Every+Single+Day" />
 </p>
 
 ---
