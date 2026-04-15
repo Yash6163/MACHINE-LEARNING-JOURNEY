@@ -30,6 +30,7 @@ Instead of just learning theory, I focus on:
 ### 🔹 Unsupervised Learning
 
 * K-Means Clustering
+* Heirachial Clustering
 
 ### 🔹 Other Concepts
 
