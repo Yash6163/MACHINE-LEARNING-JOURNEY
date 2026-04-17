@@ -31,6 +31,7 @@ Instead of just learning theory, I focus on:
 
 * K-Means Clustering
 * Heirachial Clustering
+* DBSCAN Clustering
 
 ### 🔹 Other Concepts
 
